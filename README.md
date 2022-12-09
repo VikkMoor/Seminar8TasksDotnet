@@ -1,5 +1,5 @@
 # Seminar8TasksDotnet
-1st: change first&last row in matrix.
+1st: change first & last row in matrix.
 
 2nd: rows to columns and versa.
 
