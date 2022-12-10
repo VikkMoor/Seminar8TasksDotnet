@@ -7,4 +7,4 @@
 
 4th: delete row and column with min number in matrix.
 
-5th: output N rows of Pascal's triangle.
+5th: output N rows of Pascal's triangle (stil have to make it isosceles.. somehow.. not yet.)
