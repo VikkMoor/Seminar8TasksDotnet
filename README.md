@@ -3,7 +3,7 @@
 
 2nd: rows to columns and versa.
 
-3rd: input - matrix height and width, output - how much times each digit occcurs.
+3rd: input - matrix height and width, output - how many times each digit occcurs.
 
 4th: delete row and column with min number in matrix.
 
